@@ -9,7 +9,6 @@ This is a task management project developed using Node.js, React.js, and Mysql. 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
