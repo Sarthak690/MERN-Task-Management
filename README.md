@@ -36,7 +36,7 @@ Make sure you have the following software installed on your system:
 1. Clone the repository or download the source code:
 
    ```bash
-   git clone https://github.com/Sarthak690/Task-Management-System
+   https://github.com/Sarthak690/MERN-Task-Management.git
    ```
 
 2. Navigate to the project directory:
@@ -75,9 +75,6 @@ Contributions are welcome! If you want to contribute to this project, please fol
 5. Commit your changes and push them to your forked repository.
 6. Create a pull request with a detailed description of your changes.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
